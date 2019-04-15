@@ -7,4 +7,4 @@ numNodi = 5
 for k in range(numNodi):
     for j in range(numNodi):
         if(m[k][j] == 1):
-print(str(k) + " è adiacente a " + str(j))
+           print(str(k) + " è adiacente a " + str(j))
